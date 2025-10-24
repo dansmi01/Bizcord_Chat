@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bizcord.Web/1.0.0": {
+        "runtime": {
+          "Bizcord.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bizcord.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
