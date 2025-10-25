@@ -13,11 +13,4 @@
       </Content>
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="API\" />
-      <Folder Include="Hubs\" />
-      <Folder Include="Services\" />
-      <Folder Include="Shared\" />
-    </ItemGroup>
-
 </Project>
