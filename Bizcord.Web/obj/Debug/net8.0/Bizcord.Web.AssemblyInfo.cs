@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bizcord.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac1b6466677015d4d411407236bce26687269adb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf349f2a779c8b3470a1f71689c08c4069a5e02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bizcord.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bizcord.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
